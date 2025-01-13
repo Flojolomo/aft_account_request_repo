@@ -1,7 +1,7 @@
 # Copyright Amazon.com, Inc. or its affiliates. All rights reserved.
 # SPDX-License-Identifier: Apache-2.0
 #
-module "sandbox_account_01" {
+module "sandbox_account_02" {
   source = "./modules/aft-account-request"
 
   control_tower_parameters = {
